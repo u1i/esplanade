@@ -6,7 +6,7 @@ Esplanade is powered by advanced machine learning algorithms, which have been tr
 
 Esplanade is currently in development and not yet available for public use. We are working hard to make it available to the public soon. In the meantime, please check our website for updates, and follow us on social media for the latest news.
 
-Key features of Esplanade include:
+## Key features of Esplanade
 
 * Audio analysis and feedback tailored to Baroque music
 * Automated analysis and feedback for a variety of playing styles
